@@ -8,21 +8,21 @@ public class Test1 {
 	@Test
 	public void test() {
 		System.out.println("Well Come TO Jenkins");
-		System.out.println("Hiii");
-		System.out.println("Hiii");
-		System.out.println("Hiii");
-		System.out.println("Hiii");
-		Reporter.log("Soumya");
-		System.out.println("Hiii");
-		System.out.println("Hiii");
-		Reporter.log("Soumya");
-		Reporter.log("Soumya");
-		Reporter.log("Soumya");
-		Reporter.log("Soumya");
-		Reporter.log("Soumya");
-		Reporter.log("Soumya");Reporter.log("Soumya");Reporter.log("Soumya");Reporter.log("Soumya");
-		Reporter.log("Soumya");
-		Reporter.log("Soumya");
+		Reporter.log("Soumya",true);
+		Reporter.log("Soumya",true);
+		Reporter.log("Soumya",true);
+		Reporter.log("Soumya",true);
+		Reporter.log("Soumya",true);
+		Reporter.log("Soumya",true);
+		Reporter.log("Soumya",true);
+		Reporter.log("Soumya",true);
+		Reporter.log("Soumya",true);
+		Reporter.log("Soumya",true);
+		Reporter.log("Soumya",true);
+		Reporter.log("Soumya",true);
+		Reporter.log("Soumya",true);Reporter.log("Soumya",true);Reporter.log("Soumya",true);Reporter.log("Soumya",true);
+		Reporter.log("Soumya",true);
+		Reporter.log("Soumya",true);
 	}
 
 }
