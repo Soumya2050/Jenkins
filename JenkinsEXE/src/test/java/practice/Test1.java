@@ -23,6 +23,7 @@ public class Test1 {
 		Reporter.log("Soumya",true);Reporter.log("Soumya",true);Reporter.log("Soumya",true);Reporter.log("Soumya",true);
 		Reporter.log("Soumya",true);
 		Reporter.log("Soumya",true);
+		Reporter.log("Successfully Script is running fine:  ", true);
 	}
 
 }

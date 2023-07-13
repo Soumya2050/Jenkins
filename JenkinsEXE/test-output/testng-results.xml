@@ -28,14 +28,68 @@
     <line>
       <![CDATA[Soumya]]>
     </line>
+    <line>
+      <![CDATA[Soumya]]>
+    </line>
+    <line>
+      <![CDATA[Soumya]]>
+    </line>
+    <line>
+      <![CDATA[Soumya]]>
+    </line>
+    <line>
+      <![CDATA[Soumya]]>
+    </line>
+    <line>
+      <![CDATA[Soumya]]>
+    </line>
+    <line>
+      <![CDATA[Soumya]]>
+    </line>
+    <line>
+      <![CDATA[Soumya]]>
+    </line>
+    <line>
+      <![CDATA[Soumya]]>
+    </line>
+    <line>
+      <![CDATA[Soumya]]>
+    </line>
   </reporter-output>
-  <suite started-at="2023-07-13T11:28:45 IST" name="Default suite" finished-at="2023-07-13T11:28:45 IST" duration-ms="34">
+  <suite started-at="2023-07-13T14:53:11 IST" name="Default suite" finished-at="2023-07-13T14:53:11 IST" duration-ms="38">
     <groups>
     </groups>
-    <test started-at="2023-07-13T11:28:45 IST" name="Default test" finished-at="2023-07-13T11:28:45 IST" duration-ms="34">
-      <class name="practice.Test2">
-        <test-method signature="test()[pri:0, instance:practice.Test2@4d465b11]" started-at="2023-07-13T11:28:45 IST" name="test" finished-at="2023-07-13T11:28:45 IST" duration-ms="7" status="PASS">
+    <test started-at="2023-07-13T14:53:11 IST" name="Default test" finished-at="2023-07-13T14:53:11 IST" duration-ms="38">
+      <class name="practice.Test1">
+        <test-method signature="test()[pri:0, instance:practice.Test1@4d465b11]" started-at="2023-07-13T14:53:11 IST" name="test" finished-at="2023-07-13T14:53:11 IST" duration-ms="6" status="PASS">
           <reporter-output>
+            <line>
+              <![CDATA[Soumya]]>
+            </line>
+            <line>
+              <![CDATA[Soumya]]>
+            </line>
+            <line>
+              <![CDATA[Soumya]]>
+            </line>
+            <line>
+              <![CDATA[Soumya]]>
+            </line>
+            <line>
+              <![CDATA[Soumya]]>
+            </line>
+            <line>
+              <![CDATA[Soumya]]>
+            </line>
+            <line>
+              <![CDATA[Soumya]]>
+            </line>
+            <line>
+              <![CDATA[Soumya]]>
+            </line>
+            <line>
+              <![CDATA[Soumya]]>
+            </line>
             <line>
               <![CDATA[Soumya]]>
             </line>
@@ -65,7 +119,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- test -->
-      </class> <!-- practice.Test2 -->
+      </class> <!-- practice.Test1 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
