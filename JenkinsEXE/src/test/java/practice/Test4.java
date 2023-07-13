@@ -1,5 +1,6 @@
 package practice;
 
+import org.testng.Reporter;
 import org.testng.annotations.Test;
 
 public class Test4 {
@@ -11,6 +12,13 @@ public class Test4 {
 		System.out.println("Hiii");
 		System.out.println("Hiii");
 		System.out.println("Hiii");
+		Reporter.log("Soumya");
+		Reporter.log("Soumya");
+		Reporter.log("Soumya");
+		Reporter.log("Soumya");Reporter.log("Soumya");
+		Reporter.log("Soumya");
+		Reporter.log("Soumya");
+		Reporter.log("Soumya");
 		System.out.println("Hiii");
 		System.out.println("Hiii");
 		System.out.println("Hiii");
