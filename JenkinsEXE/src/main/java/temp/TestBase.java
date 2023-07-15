@@ -11,10 +11,10 @@ import org.testng.annotations.Parameters;
 public class TestBase {
 	WebDriver driver;
 	
-	@Parameters("BrowserName")
+	
 	@BeforeMethod
-	public void beforeMethodConfig(String BrowserName) {
-		String browserName = BrowserName != null? BrowserName:System.getProperty("browser");
+	public void beforeMethodConfig() {
+		String browserName = System.getProperty("browser");
 		if (browserName.equalsIgnoreCase("chrome")) {
 			ChromeOptions options = new ChromeOptions();
 			options.addArguments("--disable-notifications");
