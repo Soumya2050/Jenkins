@@ -3,7 +3,9 @@ package practice;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
-public class Test2 {
+import temp.TestBase;
+
+public class Test2 extends TestBase {
 	
 	@Test
 	public void test() {
