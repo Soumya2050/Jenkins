@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 
 import temp.TestBase;
 
-public class Test3 extends TestBase{
+public class Test3 {
 	
 	@Test
 	public void test() {
